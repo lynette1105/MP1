@@ -1,0 +1,141 @@
+.container-fluid{
+    background-color: rgba(0, 0, 0, 0.452);
+}
+/* index */
+
+
+.homepage {
+    background-color: rgba(240, 248, 255, 0.418);
+    margin-top: 200px;
+    margin-left: 350px;
+    margin-right: 400px;
+
+}
+
+/* Profile Page */
+.profile {
+    background-image: url(/images/profile-background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.containerprofile{
+    margin-top: 100px;
+    margin-left: 300px;
+    margin-right: 550px;
+    margin-bottom: 50px;
+   background-color: rgba(240, 248, 255, 0.801);
+}
+
+.bday {
+    color: black;
+}
+
+.civilstat {
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.hobby {
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+/* Education Page */
+.educpage {
+    background-image: url(/images/education.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.Date {
+    margin-top: 0px;
+    margin-left: 300px;
+}
+
+.spsps {
+    margin-left: 150px;
+}
+
+.container1 {
+    background-color: rgba(255, 255, 255, 0.781);
+    margin-top: 50px;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-bottom: 50px;
+}
+
+.educ {
+    margin-left: 250px;
+    color: darkgreen;
+    font-weight: bolder;
+}
+
+
+.educschool {
+    margin-left: 100px;
+}
+
+.logo1 {
+    margin-top: 0px;
+    margin-left: 300px;
+}
+
+.Date {
+    color: darkgreen;
+}
+
+.course {
+    color: darkgreen;
+    margin-left: 200px;
+}
+
+.major {
+    margin-top: 0;
+    margin-left: 210px;
+    color: darkgreen;
+    margin-bottom: 0px;
+}
+
+/* Work Experience Page */
+.work {
+    background-image: url(/images/workexp.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.workexp {
+    column-count: 3;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: rgba(240, 248, 255, 0.781);
+    font-weight: bolder;
+}
+
+/* Skills Page */
+.skills{
+   background-image: url(/images/skills\ background.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+}
+.column1 {
+column-count: 2;
+margin-top: 70px;
+margin-left: 200px;
+margin-right: 500px;
+background-color: rgba(240, 248, 255, 0.521);
+}
+
+
+
+/* Contact Page */
+.emailadd {
+    margin-right: 500px;
+    margin-left: 400px;
+    margin-top: 60px;
+}
+
+
+
+
